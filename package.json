@@ -25,7 +25,7 @@
     "chokidar": "^1.5.1",
     "minimist": "^1.2.0",
     "text-table": "^0.2.0",
-    "unified-engine": "git+https://github.com/wooorm/unified-engine#new-find-and-ignore"
+    "unified-engine": "git+https://github.com/kgryte/unified-engine#fix/node-modules"
   },
   "files": [
     "index.js",
